@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A36D0D97-2ADC-4853-B5B3-88EE85D78198}|https">
+  <MonoDevelop.Ide.ItemProperties.Example.One.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example.One/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Example.One/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Example.One/Controllers/HomeController.cs" Line="17" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Example.One" expanded="True">
+            <Node name="Example.One.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.One.Api", "Example.One\Example.One.Api.csproj", "{A36D0D97-2ADC-4853-B5B3-88EE85D78198}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example.One.Application", "Example.One.Application", "{A05E02A4-60F1-4269-AD96-1B741D327356}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example.One.Common", "Example.One.Common", "{863AC188-AA1E-43D5-9ED5-7A86CEB98127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example.One.Domain", "Example.One.Domain", "{B0C5C724-EBB4-412C-AE22-6F71D114F8CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example.One.Infrastructure", "Example.One.Infrastructure", "{61400805-1C6F-4210-9183-7E3EDF31E389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36D0D97-2ADC-4853-B5B3-88EE85D78198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36D0D97-2ADC-4853-B5B3-88EE85D78198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36D0D97-2ADC-4853-B5B3-88EE85D78198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36D0D97-2ADC-4853-B5B3-88EE85D78198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0826C60-0072-405D-B503-EDE0E664352C}
+	EndGlobalSection
+EndGlobal
